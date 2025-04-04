@@ -3,4 +3,4 @@
 
 This is the Arduino Code for Controlling the light animations.
 
-Wiring Diagram coming soon.
+![Wiring Diagram](https://github.com/dogofpavlov/GreyHavensLight/blob/master/WiringDiagramGreyHavens.jpg)
